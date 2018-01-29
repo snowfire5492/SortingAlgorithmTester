@@ -12,3 +12,5 @@ a list of n elements.
 until 10 minutes is required
   or computer cannot handle size of n.  
  
+
+#OUTPUT 
