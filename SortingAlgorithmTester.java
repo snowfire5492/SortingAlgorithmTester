@@ -42,9 +42,7 @@ public class SortingAlgorithmTester {
 		}
 		return list;											// returning sorted list
 	}
-	
-	
-		
+
 	/**
 	 * merge sort
 	 * @param list
